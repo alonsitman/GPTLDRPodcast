@@ -4,6 +4,4 @@ __pycache__/
 
 config.json
 openai.key
-tldrgpt_server_key.pem
-
-gptldr_youtube.py
+out/
